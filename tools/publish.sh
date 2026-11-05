@@ -27,5 +27,5 @@ cd "$TMP"
 git init -q -b gh-pages
 git add -A -f                                     # the audio too (the copied .gitignore keeps it off main only)
 git -c user.name="$NAME" -c user.email="$EMAIL" commit -q -m "publish $(date +%F)"
-git push -q -f "$REMOTE" gh-pages
+git push -q ${PUBLISH_FORCE:+-f} "$REMOTE" gh-pages   # 既定は通常 push。更新時の force は PUBLISH_FORCE=1 を明示したときだけ
 echo "published gh-pages: $(git ls-files | wc -l | tr -d ' ') files, $n audio (since $CUT)"

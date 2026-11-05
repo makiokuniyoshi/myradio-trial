@@ -1,0 +1,56 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-06",
+ "lang": "ja",
+ "title": "PFNの翻訳LLMとImages 2.6、Octoverse 2026",
+ "highlight": 0,
+ "opening": [
+  {"say": "おはようございます、あさラジ試験放送です。十一月六日、金曜日の朝です。", "show": "おはようございます、あさラジ試験放送です。11月6日金曜日の朝です。"},
+  {"say": "今日は三本のニュースをお届けします。", "show": "今日は3本のニュースをお届けします。"}
+ ],
+ "news": [
+  {
+   "label": "PFN PLaMo 3 Translate",
+   "points": ["翻訳特化LLMをオープンウェイトで公開", "0.8B〜31Bの4サイズ", "スマホやノートPCでも実行できるという"],
+   "details": ["公開は11月5日。重みはHugging Faceから入手できます。", null, "直近事業年度の収入または売上が10億円以下の企業・個人は、PLaMoコミュニティライセンスのもとで商用利用もできます。"],
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
+   "link": {"url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/", "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8～31Bの4サイズ　オンデバイスにも対応", "site": "ITmedia AI＋", "description": "Preferred Networksは、翻訳特化型LLM「PLaMo 3 Translate」をオープンウェイトで公開した。", "image": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/05/2000002900/10011377/2048", "icon": null},
+   "lines": [
+    {"say": "まずは、プリファードネットワークスの話題です。", "show": "まずは、Preferred Networksの話題です。"},
+    {"say": "翻訳に特化した言語モデル、プラモスリートランスレートを、オープンウェイトで公開しました。", "show": "翻訳特化LLM「PLaMo 3 Translate」をオープンウェイトで公開。"},
+    {"say": "サイズは四種類で、スマートフォンやノートパソコンでも動かせるそうです。", "show": "サイズは4種類。スマホやノートPCでも実行できるとのこと。"},
+    {"say": "同社は、世界最高水準の翻訳性能だとうたっています。", "show": "同社は「世界最高水準」の翻訳性能をうたっています。"}
+   ]
+  },
+  {
+   "label": "OpenAI ChatGPT Images 2.6",
+   "points": ["画像生成速度が50％向上", "GIFアニメ生成に対応（順次展開）", "無料プランでも利用可能"],
+   "details": ["編集精度も改善し、背景を変えても衣装などの細部を保ちやすくなりました。", null, "発表は11月4日（現地時間）。ChatGPTとCodexの全プランが対象です。"],
+   "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+   "link": {"url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/", "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に", "site": "ITmedia NEWS", "description": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。", "image": "https://www.itmedia.co.jp/news/article/ogp/2611/05/2000002894/10011356/2048", "icon": null},
+   "lines": [
+    {"say": "続いて、オープンエーアイの画像生成です。", "show": "続いて、OpenAIの画像生成です。"},
+    {"say": "チャットジーピーティー、イメージズ、二点六が発表されました。", "show": "「ChatGPT Images 2.6」を発表。"},
+    {"say": "生成速度は五十パーセント向上し、ジフアニメーションも作れるようになります。", "show": "生成速度が50％向上し、GIFアニメも作成可能に。"},
+    {"say": "無料プランでも使えますが、ジフの機能は順次展開中です。", "show": "無料プランでも使えますが、GIF機能は順次展開中です。"}
+   ]
+  },
+  {
+   "label": "GitHub Octoverse 2026",
+   "points": ["開発者は総数2億2500万人", "最も使われる言語は今年もTypeScript", "PR増加率で最も伸びたのはRust"],
+   "details": ["国別の5位が日本で715万人。1位はアメリカの3830万人です。", "2位のPythonとは僅差、3位はJavaScriptでした。", null],
+   "url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
+   "link": {"url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html", "title": "GitHubで最も使われている言語は2年連続TypeScript、プルリクの増加率はRust。急成長したOSSはCC Switch、Omarchyなど。GitHub Octoverse 2026", "site": "Publickey", "description": "GitHubは、この1年の利用動向やオープンソースの動向などをまとめた年次レポート「Octoverse 2026」を発表しました。", "image": "https://www.publickey1.jp/2026/octoverse2026-01.png", "icon": null},
+   "lines": [
+    {"say": "最後は、ギットハブの年次レポート、オクトバース二千二十六です。", "show": "最後は、GitHubの年次レポート「Octoverse 2026」です。"},
+    {"say": "開発者の総数は二億二千五百万人で、日本は七百十五万人で五位でした。", "show": "開発者は総数2億2500万人。日本は715万人で5位。"},
+    {"say": "最も使われている言語は、今年もタイプスクリプトです。", "show": "最も使われている言語は、今年もTypeScript。"},
+    {"say": "プルリクエストの増加率で見ると、最も伸びたのはラストでした。", "show": "プルリクエストの増加率では、Rustが最も伸びました。"}
+   ]
+  }
+ ],
+ "closing": [
+  {"say": "今日の注目は、手元の機器でも動くという翻訳モデルでした。", "show": "今日の注目は、手元の機器でも動くという翻訳モデルでした。"},
+  {"say": "この番組は、エーアイが原稿を書き、合成音声でお届けしました。以上、あさラジ試験放送でした。", "show": "この番組はAIが原稿を書き、合成音声でお届けしました。以上、あさラジ試験放送でした。"}
+ ]
+}
