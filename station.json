@@ -1,7 +1,7 @@
 {
  "format": "myradio/station-1",
  "name": "あさラジ試験放送",
- "description": "AIと開発のニュースを、朝に約90秒で読み上げる試験放送です。原稿はAIが作成しています。",
+ "description": "AIと開発のニュースを、朝に約80秒で読み上げる試験放送です。原稿はAIが作成しています。",
  "tagline": "AIと開発のニュース（試験放送）",
  "logo": "logo.svg",
  "url": "https://makiokuniyoshi.github.io/myradio-trial/",

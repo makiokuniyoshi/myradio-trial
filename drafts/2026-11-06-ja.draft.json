@@ -17,7 +17,7 @@
    "link": {"url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/", "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8～31Bの4サイズ　オンデバイスにも対応", "site": "ITmedia AI＋", "description": "Preferred Networksは、翻訳特化型LLM「PLaMo 3 Translate」をオープンウェイトで公開した。", "image": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/05/2000002900/10011377/2048", "icon": null},
    "lines": [
     {"say": "まずは、プリファードネットワークスの話題です。", "show": "まずは、Preferred Networksの話題です。"},
-    {"say": "翻訳に特化した言語モデル、プラモスリートランスレートを、オープンウェイトで公開しました。", "show": "翻訳特化LLM「PLaMo 3 Translate」をオープンウェイトで公開。"},
+    {"say": "翻訳に特化した言語モデル、プラモスリー・トランスレートを、オープンウェイトで公開しました。", "show": "翻訳特化LLM「PLaMo 3 Translate」をオープンウェイトで公開。"},
     {"say": "サイズは四種類で、スマートフォンやノートパソコンでも動かせるそうです。", "show": "サイズは4種類。スマホやノートPCでも実行できるとのこと。"},
     {"say": "同社は、世界最高水準の翻訳性能だとうたっています。", "show": "同社は「世界最高水準」の翻訳性能をうたっています。"}
    ]
@@ -30,7 +30,7 @@
    "link": {"url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/", "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に", "site": "ITmedia NEWS", "description": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。", "image": "https://www.itmedia.co.jp/news/article/ogp/2611/05/2000002894/10011356/2048", "icon": null},
    "lines": [
     {"say": "続いて、オープンエーアイの画像生成です。", "show": "続いて、OpenAIの画像生成です。"},
-    {"say": "チャットジーピーティー、イメージズ、二点六が発表されました。", "show": "「ChatGPT Images 2.6」を発表。"},
+    {"say": "チャットGPT、イメージズ、二点六が発表されました。", "show": "「ChatGPT Images 2.6」を発表。"},
     {"say": "生成速度は五十パーセント向上し、ジフアニメーションも作れるようになります。", "show": "生成速度が50％向上し、GIFアニメも作成可能に。"},
     {"say": "無料プランでも使えますが、ジフの機能は順次展開中です。", "show": "無料プランでも使えますが、GIF機能は順次展開中です。"}
    ]
@@ -42,8 +42,8 @@
    "url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
    "link": {"url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html", "title": "GitHubで最も使われている言語は2年連続TypeScript、プルリクの増加率はRust。急成長したOSSはCC Switch、Omarchyなど。GitHub Octoverse 2026", "site": "Publickey", "description": "GitHubは、この1年の利用動向やオープンソースの動向などをまとめた年次レポート「Octoverse 2026」を発表しました。", "image": "https://www.publickey1.jp/2026/octoverse2026-01.png", "icon": null},
    "lines": [
-    {"say": "最後は、ギットハブの年次レポート、オクトバース二千二十六です。", "show": "最後は、GitHubの年次レポート「Octoverse 2026」です。"},
-    {"say": "開発者の総数は二億二千五百万人で、日本は七百十五万人で五位でした。", "show": "開発者は総数2億2500万人。日本は715万人で5位。"},
+    {"say": "最後は、GitHubの年次レポート、オクトバース、二千二十六です。", "show": "最後は、GitHubの年次レポート「Octoverse 2026」です。"},
+    {"say": "開発者の総数は二億二千五百万人で、にほんは七百十五万人で五位でした。", "show": "開発者は総数2億2500万人。日本は715万人で5位。"},
     {"say": "最も使われている言語は、今年もタイプスクリプトです。", "show": "最も使われている言語は、今年もTypeScript。"},
     {"say": "プルリクエストの増加率で見ると、最も伸びたのはラストでした。", "show": "プルリクエストの増加率では、Rustが最も伸びました。"}
    ]
